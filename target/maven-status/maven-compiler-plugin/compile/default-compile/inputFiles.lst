@@ -1,0 +1,15 @@
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\controller\DeptController.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\controller\EmpController.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\mapper\DeptMapper.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\mapper\EmpExprMapper.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\mapper\EmpMapper.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\pojo\Dept.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\pojo\Emp.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\pojo\EmpExpr.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\pojo\PageResult.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\pojo\Result.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\service\DeptService.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\service\EmpService.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\service\impl\DeptServiceImpl.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\service\impl\EmpServiceImpl.java
+D:\javalianxi\web-ai-code\web-ai-project02\tlias-web-management\src\main\java\com\itxiaoyang\TliasWebManagementApplication.java
